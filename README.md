@@ -3,7 +3,7 @@
 ## Integrantes
 - Eduardo Mangueira de Castro Moraes (25001267)
 - Sandy de Souza Lima
-- João Pedro Serafim
+- João Pedro Serafim (25001002)
 
 ## Oque é?
 Avaliação de Desenvolvimento de Sistemas Moveis, matéria do Marcello Ciacco.
